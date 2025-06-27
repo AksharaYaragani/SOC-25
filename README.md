@@ -1,5 +1,5 @@
 My project is on Competitive Programming.<br>
-Programming Language used : Java<br>
+Programming Language used : Java <br>
 In Week 1, we focused on the basics, working on problems related to arrays and binary search.<br>
 1Best Time to Buy and Sell Stock<br>
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/<br>
