@@ -1,6 +1,7 @@
 My project is on Competitive Programming.<br>
 In Week 1, we focused on the basics, working on problems related to arrays and binary search.<br>
-1. 121. Best Time to Buy and Sell Stock<br>
+1Best Time to Buy and Sell Stock<br>
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/<br>
 2.https://leetcode.com/problems/merge-sorted-array/<br>
 3.https://leetcode.com/problems/majority-element/<br>
 Given an integer array arr[], finding the subarray which has the maximum possible sum<br>
