@@ -1,5 +1,5 @@
-My project is on Competitive Programming.
-In Week 1, we focused on the basics, working on problems related to arrays and binary search.
+My project is on Competitive Programming.<br>
+In Week 1, we focused on the basics, working on problems related to arrays and binary search.  
 1. 121. Best Time to Buy and Sell Stock
 2.https://leetcode.com/problems/merge-sorted-array/
 3.https://leetcode.com/problems/majority-element/
