@@ -1,13 +1,13 @@
 My project is on Competitive Programming.<br>
-In Week 1, we focused on the basics, working on problems related to arrays and binary search.  
-1. 121. Best Time to Buy and Sell Stock
-2.https://leetcode.com/problems/merge-sorted-array/
-3.https://leetcode.com/problems/majority-element/
-Given an integer array arr[], finding the subarray which has the maximum possible sum
+In Week 1, we focused on the basics, working on problems related to arrays and binary search.<br>
+1. 121. Best Time to Buy and Sell Stock<br>
+2.https://leetcode.com/problems/merge-sorted-array/<br>
+3.https://leetcode.com/problems/majority-element/<br>
+Given an integer array arr[], finding the subarray which has the maximum possible sum<br>
 
-Kadane's algorithm -O(n) Time
-static int maxSubarraySum(int[] arr) {
-        int res = arr[0];
+Kadane's algorithm -O(n) Time <br>
+static int maxSubarraySum(int[] arr) { <br>
+        int res = arr[0]; <br>
         int maxEnding = arr[0];
         for (int i = 1; i < arr.length; i++) {
             maxEnding = Math.max(maxEnding + arr[i], arr[i]);
